@@ -108,7 +108,7 @@ https://github.com/NVJ9SINGHNAVJOT/study-xenon/assets/121451924/f47ce681-a484-40
 ![about_us_page](https://github.com/NVJ9SINGHNAVJOT/study-xenon/assets/121451924/7a02a69e-bb52-4580-b076-c4b996fdebd6)
 ![student_dashboard](https://github.com/NVJ9SINGHNAVJOT/study-xenon/assets/121451924/3fffb35f-9e13-4ed0-ace7-1849a8686e3b)
 ![sign_up_page](https://github.com/NVJ9SINGHNAVJOT/study-xenon/assets/121451924/0c9bf505-9603-4c49-809e-92a09c87fd39)
-![profile_page](https://github.com/NVJ9SINGHNAVJOT/study-xenon/assets/121451924/af3ff1d4-bffb-46ae-9637-227c51183305)
+![profile_page](https://github.com/NVJ9SINGHNAVJOT/study-xenon/assets/121451924/4c65371e-fdd6-483f-aaa2-0bfe160c0290)
 ![mail_send](https://github.com/NVJ9SINGHNAVJOT/study-xenon/assets/121451924/7787351b-5320-434e-b5cb-75b91c64d3c2)
 
 </details>
